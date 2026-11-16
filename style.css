@@ -3,3 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+/* Sub Header Styling */
+
+.sub-header {
+   background-color: #0f172a;
+   height: auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 20px;
+   padding: 1% 2%;
+}
+
+.emergency-section-heading {
+color: #ff6467;
+}
+
+.contact-num {
+    color: white;
+}
+
+.gmail {
+    color: #75808E;
+}
+
+.gmail:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.timing-section-heading {
+     color: #75808E;
+}
