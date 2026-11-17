@@ -26,16 +26,10 @@ Multi-Column Footer: Organized quick links and real-time clinic status indicator
 
 🛠️ Technologies Used
 
-HTML5: Semantic structure (<header>, <section>, <nav>, <footer>, <form>).
+HTML5: Semantic structure (header, section, nav, footer, form).
 
 CSS3: Custom styling using Flexbox, CSS linear gradients, custom properties, and @media (max-width: 768px) queries for mobile devices.
 
 Font Awesome: Icons for medical badges, contact details, and UI buttons.
 
-📁 Project Structure
 
-cardio-landing-page/
-├── index.html          # Main HTML structure
-├── style.css           # All desktop and responsive mobile styles
-├── assets/             # Project images and clinic logos
-└── README.md           # Project documentation
